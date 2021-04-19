@@ -33,6 +33,8 @@ dependencies:
   google_sign_in:
   flutter_webview_plugin:
   flutter_facebook_login:
+  esc_pos_bluetooth:
+  flutter_bluetooth_basic:
 
 dev_dependencies:
   flutter_test:
